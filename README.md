@@ -31,9 +31,10 @@ Users can provied ratings and add reviews.
 
 ## Screenshots
 
-![Home page image](https://github.com/ShreyasTS/brewery-reviewing-system/assets/30121971/8a69e974-fb42-426a-947d-049605ac2225)
 
-![Breweries list image](https://github.com/ShreyasTS/brewery-reviewing-system/assets/30121971/99c1f91d-6cd3-46b0-b17b-1042cba223d2)
+![Home page image](https://github.com/ShreyasTS/brewery-reviewing-system/assets/30121971/328856d3-ad80-4052-a4b7-dca6d603058a)
 
-![image](https://github.com/ShreyasTS/brewery-reviewing-system/assets/30121971/2e26ca25-a4a5-415a-a8d9-6f5c90478345)
+![Breweries list image](https://github.com/ShreyasTS/brewery-reviewing-system/assets/30121971/2707b77e-bb38-4877-8470-0e970f8bac4a)
+
+![review](https://github.com/ShreyasTS/brewery-reviewing-system/assets/30121971/ad59a609-55ae-4d8d-a19c-4a4ebfbba6e5)
 
